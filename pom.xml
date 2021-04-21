@@ -8,7 +8,14 @@
     <artifactId>ingresso</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-
+    
+    <developers>
+    	<developer>
+		<name>Juliana Pires</name>
+		<email>juh.cpires2@gmail.com</email>
+	</developer>
+    </developers>
+	
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
